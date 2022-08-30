@@ -1,11 +1,13 @@
-v1.1.0
+# Changelog
+
+## v1.1.0
 
 - Fixed Parking 10 pushback truck position
 - added Jetway Paths for Gate 1-8 all
 - added Terminal Waypoints for Gates 1-8
 - added Replacement Texture for Hamburg Airport Ground Handler
 
-v1.2.0
+## v1.2.0
 
 - Added Parking 64, 65
 - Added Custom Pushbacks
@@ -15,3 +17,7 @@ v1.2.0
   - Gate 64 (Z1 blue)
   - Gate 65 (Z1 blue)
 - some fixes
+
+## v1.2.1
+
+- fixed parkingsystem_objectposition of gate 10
