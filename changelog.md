@@ -21,3 +21,15 @@
 ## v1.2.1
 
 - fixed parkingsystem_objectposition of gate 10
+
+## v1.2.2
+
+- fixed parkings that got "A" suffix in latest version
+
+
+## v2.0.0
+
+- Adapted to changes from Simwings EDDH Hamburg Airport v1.0.2
+  - removed VDGS to use Simwings Scenery ones
+  - renamed parking positions leading A B s
+  - added Parkings for Gates 1-8
